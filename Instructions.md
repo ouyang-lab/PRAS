@@ -39,8 +39,8 @@ Bedtools commands, python and R should be executable.
 gtfToGenePred can be downloaded from UCSC utility library (http://hgdownload.soe.ucsc.edu/admin/exe/). This tool can transfer the annotation file in GTF format to that in GenePred format. PAS calls this tool in the annotation generating step, so please make it excutable.
 
 # Run PRAS
-## 1. Download the source code of PRAS.
-PRAS source code can be downloaded from the Downloads page.
+## 1. [Download the source code of PRAS.](zipped_code/Downloads.md)
+PRAS source code can be downloaded from the [Downloads](zipped_code/Downloads.md) page.
 ## 2. Check help page of PRAS for usage.
 PRAS help page can be generated simply by typing:
 
