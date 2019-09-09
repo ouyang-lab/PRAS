@@ -7,15 +7,15 @@ PRAS outputs the PRAS score of each interested gene.
 
 ![alt text](figures/flowchart.png)
 
-## Instructions
+## [Instructions](Instructions.md)
 1. Prerequisites
 2. Run PRAS
 
-## Downloads
+## [Downloads](zipped_code/Downloads.md)
 1. Source code
 2. Sample data
 
-## Examples
+## [Examples](Examples.md)
 1. Sample input
 2. Command example
 3. Sample output
