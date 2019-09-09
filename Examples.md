@@ -1,7 +1,7 @@
 # Examples
 All sample datasets can be downloaded from the [Downloads](zipped_code/Downloads.md) page.
 ## Sample input
-PRAS requires a binding table, an annotation table, and an ID table as input files (described in the Instructions).
+PRAS requires a binding table, an annotation table, and an ID table as input files (described in the [Instructions](Instructions.md)).
 Here, we present a set of toy datasets as an example for PRAS usage.
 The binding table is a subset of the reliable cross-linking sites from CELF4 iCLIP-seq dataset used in our paper. The annotation table is the GTF file of Refseq mm9 annotation. The ID file is the transcript IDs and gene names of Refseq mm9 annotation.
 The files looks like the screenshots as below:
