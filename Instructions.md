@@ -56,7 +56,7 @@ If you get any errors in this command line, please go back to the prerequisites 
 PRAS have four required arguments: GTF file name, Binding file name, ID file name and the filename for the output peak annotation file.
 PRAS have seven optional arguments: running mode, genomic region, half window size, interested gene list, reference site direction (5', 3' or check), distance parameter, and PRAS score output filename.
 One can follow the help page of PRAS to run on your own datasets.
-If you have problems running the python code, please go to Examples to check the sample command line to run PRAS.
+If you have problems running the python code, please go to [Examples](Examples.md) to check the sample command line to run PRAS.
 ## 4. Collect PRAS output files.
 If PRAS is run in 'check' mode instead of 'score' mode, it will output two files. One is a peak annotation file according to the -a option, and the other is the binding profile plot according to the -p option. 'check' will output parameter suggestions that can be used in 'score' mode based on the CLIP peak distribution around the selected reference sites. The suggested parameters include genomic region, reference site, and decay parameter, corresponding to -s, -r, and -d options, respectively. Users can use these suggestions if they don't have any pre-knowledge of the studied RBP.
 Given known reference site, PRAS typically will output two files. One is a peak annotation file according to the -a option, and the other is the PRAS score table according to the -o option.
