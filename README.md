@@ -5,7 +5,7 @@ We designed a tool, Protein-RNA Association Strength (PRAS), for RBP functional 
 Given the binding  (from CLIP-seq) and reference site (pre-known or interested site) information, it can score genes by combining the binding intensity and position information.
 PRAS outputs the PRAS score of each interested gene.
 
-![alt text](figures/flowchart.png)
+![alt text](figures/flowchart1.png)
 
 ## [Instructions](Instructions.md)
 1. Prerequisites
