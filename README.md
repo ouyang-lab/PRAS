@@ -30,3 +30,6 @@ Use of PRAS is free for academic users under the GNU General Public License (GPL
 Zhengqing Ouyang: ouyang@schoolph.umass.edu
 
 Jianan Lin: jianan.lin@jax.org
+
+## Note
+The website of PRAS has been moved from http://ouyanglab.jax.org/pras/ to here (https://github.com/ouyang-lab/PRAS/).
